@@ -12,4 +12,4 @@ def search_results(feature_class):
 
 if __name__ == '__main__':
     print(search_results(
-        "D:/Estudos/Python/mock_arcpy_python/ArcProProject/MockTestArcpy/MockTestArcpy.gdb/TabelaTeste"))
+        "D:/Estudos/Python/mock_arcpy_python/ArcProProject/MockTestArcpy/MockTestArcpy.gdb/TabelaTeste2"))
