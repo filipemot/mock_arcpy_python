@@ -1,4 +1,4 @@
-import arcpy
+import arcpy  # type: ignore
 
 
 def search_results(feature_class):
